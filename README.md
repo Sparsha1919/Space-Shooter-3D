@@ -84,6 +84,4 @@ python main.py
 - Game state lives in module-level variables and updates in the GLUT `idle` callback.
 - Text is drawn with GLUT bitmap fonts through an orthographic overlay.
 
-## License
 
-Add a license of your choice (MIT is a common option for student projects).
